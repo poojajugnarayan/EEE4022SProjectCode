@@ -1,0 +1,4 @@
+To run any code below Open3D, SAM and Grounded SAM need to be installed.
+
+In order to run the sementation portion of this project "3Dsegmentation.py" can be run. 
+In order to run the mesh mapping portion of this project "run_all.py" can be run.  
